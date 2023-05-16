@@ -26,7 +26,7 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 
 ![This is an image](imagenes/nvidia2.png)
 
-
+##
 ### Parchamos el controlador:
 
 ```
