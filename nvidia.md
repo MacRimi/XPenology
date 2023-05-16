@@ -129,7 +129,7 @@ Aceleración de hardware seleccionamos: Nvidia NVENC
 Os paso unas capturas para que veáis las pruebas:
 
 
-![This is an image](imagenes/nvidia9.jpg)
+![This is an image](imagenes/nvidia9.png)
 
 
 
