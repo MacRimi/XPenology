@@ -138,3 +138,11 @@ Os paso unas capturas para que veáis las pruebas:
 
 
 ![This is an image](imagenes/nvidia11.png)
+
+
+### Conclusion:
+
+Con una grafica potente, podemos usar una placa base discreta de bajo consumo y hacer una buena actualización a nuestro Nas. 
+
+Que lo disfrutéis!
+
