@@ -99,7 +99,7 @@ HardwareDevicePath="/dev/nvidia0"
 ![This is an image](imagenes/nvidia8.png)
 
 
-- Guardamos los cambios y cerramos el archivo. También deteneos Plex y lo volvemos a arrancar. Esto es importante para que aplique el cambio que hemos modificado y utilice nuestra tarjeta nvidia.
+- Guardamos los cambios y cerramos el archivo. También detenemos Plex y lo volvemos a arrancar. Esto es importante para que aplique el cambio que hemos modificado y utilice nuestra tarjeta nvidia.
 
 
 #### Emby:
