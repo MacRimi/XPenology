@@ -29,6 +29,11 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 ##
 ### Parchamos el controlador:
 
+Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SSH y no logueamos como root
+
+```
+sudo -i;
+```
 ```
 cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege;
 ```
