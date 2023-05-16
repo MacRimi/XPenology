@@ -12,7 +12,7 @@ Modelos confirmados:
 Los modelos XS no son compatibles.
 
 ##
-### Preparación:
+## Preparación:
 
 Añadimos este repositorio de origenes de paquetes:
 
@@ -27,7 +27,7 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 ![This is an image](imagenes/nvidia2.png)
 
 ##
-### Parchamos el controlador:
+## Parchamos el controlador:
 
 Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SSH y no logueamos como root
 
@@ -64,13 +64,13 @@ Ahora comprobamos que este instalado el controlador y la tarjeta grafica este re
 ##
 
 
-###  Usar nuestro servidor multimedia con NVIDIA:
+##  Usar nuestro servidor multimedia con NVIDIA:
 
 Hay que tener en cuenta que Synology lleva su ritmo a la hora de las actualizaciones y como hemos podido observar el controlador que nos instala el paquete NVIDIA Rumtime Library es la versión: NVIDIA-SMI 440.44
 Eso puede generarnos un problema con nuestros servidores de medios que requieran versiones superiores, como caso de Plex, Jellyfin y posiblemete Emby.
 
 
-# Plex:
+### Plex:
 
 Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada de este repositorio de paquetes.
 
