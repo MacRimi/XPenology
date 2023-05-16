@@ -27,14 +27,15 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 ![This is an image](imagenes/nvidia2.png)
 
 
-A continuación indicamos el nombre gdrive, el directorio que hemos creado y en contenido elegimos Archivo VZDump.
+### Parchamos el controlador:
 
-![This is an image](https://github.com/proxmology/manuales/blob/main/Proxmox%20Backup%20Cloud/imagen2.png)
+```
+cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege;
+```
 
-
-Le damos a Agregar y como vemos nos añade el nuevo directorio a nuestro datastore
-
-![This is an image](https://github.com/proxmology/manuales/blob/main/Proxmox%20Backup%20Cloud/imagen3.png)
+```
+cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start;
+```
 
 ##
 ### Usando rclone para el montaje en nuestra nube:
