@@ -43,6 +43,18 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
+Comprobamos que todo esta correcto con estos comandos:
+
+```
+nvidia-smi -pm 1
+```
+
+```
+ls /dev/nvid*
+```
+Si todo esta correcto deberíamos ver algo así:
+
+
 ##
 ### Usando rclone para el montaje en nuestra nube:
 
