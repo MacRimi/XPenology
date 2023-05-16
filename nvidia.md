@@ -134,6 +134,10 @@ Os paso unas capturas para que veáis las pruebas:
 
 
 
+![This is an image](imagenes/nvidia12.png)
+
+
+
 ![This is an image](imagenes/nvidia10.png)
 
 
