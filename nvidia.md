@@ -56,6 +56,10 @@ Si todo esta correcto deberíamos ver algo así:
 
 ![This is an image](imagenes/nvidia3.png)
 
+Ahora comprobamos que este instalado el controlador y la tarjeta grafica este reconocida
+
+![This is an image](imagenes/nvidia4.png)
+
 ##
 ### Usando rclone para el montaje en nuestra nube:
 
