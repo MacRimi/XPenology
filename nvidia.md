@@ -22,6 +22,10 @@ https://spk7.imnks.com/
 ![This is an image](imagenes/nvidia1.png)
 
 
+Y nos instalamos el paquete NVIDIA Runtime Library
+
+![This is an image](imagenes/nvidia2.png)
+
 
 A continuación indicamos el nombre gdrive, el directorio que hemos creado y en contenido elegimos Archivo VZDump.
 
