@@ -75,3 +75,7 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada de este repositorio de paquetes.
 
 ![This is an image](imagenes/nvidia5.png)
+
+También vamos a necesitar instalarnos este paquete de Synology puesto que lo necesitaremso para modificar el archivo Preferences.xml
+
+![This is an image](imagenes/nvidia6.png)
