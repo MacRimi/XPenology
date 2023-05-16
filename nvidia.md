@@ -54,6 +54,7 @@ ls /dev/nvid*
 ```
 Si todo esta correcto deberíamos ver algo así:
 
+![This is an image](imagenes/nvidia3.png)
 
 ##
 ### Usando rclone para el montaje en nuestra nube:
