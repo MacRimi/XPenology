@@ -9,12 +9,15 @@ Modelos confirmados:
 -	DS1621+
 -	DS2422+
 
-* Los modelos XS no son compatibles.
+Los modelos XS no son compatibles.
 
 ##
 ### Preparación:
 
-Nos conectaremos por nuestro cliente ssh preferido o desde Shell del propio proxmox y creamos un directorio nuevo en la carpeta /mnt. Le podemos poner el nombre que queramos que nos ayude a identificarlo, por ejemplo si vamos a usar google drive podemos llamarlo gdrive. Por lo que lo haríamos asi:
+Añadimos este repositorio de origen de paquetes:
+
+https://spk7.imnks.com/ 
+
 
 ```
 mkdir /mnt/gdrive
