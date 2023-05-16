@@ -1,6 +1,6 @@
 ## Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...
 
-En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” de serie como los DVA 3221 y 3219.
+En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” con tarjeta nvidia de serie como los DVA 3221 y 3219.
 Modelos confirmados:
 -	DS918+
 -	DS920+
