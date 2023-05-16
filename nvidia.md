@@ -63,13 +63,14 @@ Ahora comprobamos que este instalado el controlador y la tarjeta grafica este re
 
 ##
 
+
 ###  Usar nuestro servidor multimedia con NVIDIA:
 
 Hay que tener en cuenta que Synology lleva su ritmo a la hora de las actualizaciones y como hemos podido observar el controlador que nos instala el paquete NVIDIA Rumtime Library es la versión: NVIDIA-SMI 440.44
 Eso puede generarnos un problema con nuestros servidores de medios que requieran versiones superiores, como caso de Plex, Jellyfin y posiblemete Emby.
 
 
-## Plex:
+# Plex:
 
 Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada de este repositorio de paquetes.
 
