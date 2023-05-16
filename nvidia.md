@@ -119,13 +119,22 @@ Aceleración de hardware seleccionamos: Nvidia NVENC
 ### Banco de pruebas:
 
 
-Os paso unas capturas para que veáis las pruebas:
-
-- Placa base: Asrock J4205  PCIe 2.0 1x
+- Placa base: Asrock J4205  PCIe 2.0 x1
 [modificada bios para arranque rápido]( https://xpenology.com/forum/topic/63876-j3455-xpenology-slow-boot-solution/page/2/)
-- Adptador PCIe 1x a 16X
+- Adptador PCIe x1 a x16
 - Trajeta grafica: nvidia P620
 - Modelo DSM: DS918+
 - Boot: tinycore-redpill M-shell 
 
+Os paso unas capturas para que veáis las pruebas:
 
+
+![This is an image](imagenes/nvidia9.png)
+
+
+
+![This is an image](imagenes/nvidia10.png)
+
+
+
+![This is an image](imagenes/nvidia11.png)
