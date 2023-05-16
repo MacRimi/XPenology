@@ -146,3 +146,4 @@ Con una grafica potente, podemos usar una placa base discreta de bajo consumo y 
 
 Que lo disfrutéis!
 
+Fuente original: https://imnks.com/7009.html
