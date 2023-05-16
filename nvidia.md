@@ -61,4 +61,4 @@ Ahora comprobamos que este instalado el controlador y la tarjeta grafica este re
 ![This is an image](imagenes/nvidia4.png)
 
 ##
-###  
+###  Usar nuestros servidor multimedia con NVIDIA
