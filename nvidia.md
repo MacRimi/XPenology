@@ -89,6 +89,7 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 ![This is an image](imagenes/nvidia7.png)
 
 
+Una vez abierto el archivo Preferences.xml nos dirigimos al final de la línea y añadimos los siguiente:
 
 ```
 HardwareDevicePath="/dev/nvidia0"
