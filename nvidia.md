@@ -67,7 +67,7 @@ Hay que tener en cuenta que Synology lleva su ritmo a la hora de las actualizaci
 Eso puede generarnos un problema con nuestros servidores de medios que requieran versiones superiores, como caso de Plex, Jellyfin y posiblemete Emby.
 
 
-##-  Plex:
+## Plex:
 
 Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada de este repositorio de paquetes.
 
