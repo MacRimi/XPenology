@@ -114,3 +114,17 @@ En vanzado, cambiamos a NVDEC (recomendado) o CUVID según el decodificador de h
 
 Puesto que el controlador de nvidia es el 440.44 solo podemos usar la versión 10.7.7 de Jellifyn. Las versiones superiores no son compatibles con este controlador y no podremos usar nuestra tarjeta nvidia.
 Aceleración de hardware seleccionamos: Nvidia NVENC
+
+
+### Banco de pruebas:
+
+
+Os paso unas capturas para que veáis las pruebas:
+
+Placa base: Asrock J4205  PCIe 2.0 1x
+[modificada bios para arranque rápido]( https://xpenology.com/forum/topic/63876-j3455-xpenology-slow-boot-solution/page/2/)
+Trajeta grafica: nvidia P620
+Modelo DSM: DS918+
+Boot: tinycore-redpill M-shell 
+
+
