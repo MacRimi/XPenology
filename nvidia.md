@@ -83,6 +83,9 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 ![This is an image](imagenes/nvidia6.png)
 
 
+- Abrimos el editor de texto recién instalado abrimos el archivo Preferences.xml ubicado en: /PlexMediaServer/AppData/Plex Media Server
+
+
 ![This is an image](imagenes/nvidia7.png)
 
 
