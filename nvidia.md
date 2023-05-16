@@ -142,7 +142,7 @@ Os paso unas capturas para que veáis las pruebas:
 
 ### Conclusion:
 
-Con una grafica potente, podemos usar una placa base discreta de bajo consumo y hacer una buena actualización a nuestro Nas. 
+Con una grafica potente, podemos usar una placa base discreta de bajo consumo y hacer una buena actualización a ese Nas que pensábamos que ya teníamos que jubilar. 
 
 Que lo disfrutéis!
 
