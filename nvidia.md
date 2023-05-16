@@ -1,6 +1,16 @@
 ## NVIDIARuntimeLibrary en 918+, 920+, 923+...
 
-En este tutorial, vamos a configurar de manera sencilla el servicio de copias de seguridad en nuestro proveedor de almacenamiento personal en la nube, gdrive, mega, Dropbox, onedrive… añadiéndolo como un datastore más, usando rclone en el que guardaremos nuestras copias de seguridad de manera segura y sin hacer uso de ningún script.
+En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” de serie como los DVA 3221 y 3219.
+Modelos confirmados:
+-	DS918+
+-	DS920+
+-	DS923+
+-	DS1520+
+-	DS1621+
+-	DS2422+
+
+* Los modelos XS no son compatibles.
+
 ##
 ### Preparación:
 
