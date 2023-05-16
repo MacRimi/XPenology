@@ -100,3 +100,10 @@ HardwareDevicePath="/dev/nvidia0"
 
 
 - Guardamos los cambios y cerramos el archivo. También deteneos Plex y lo volvemos a arrancar. Esto es importante para que aplique el cambio que hemos modificado y utilice nuestra tarjeta nvidia.
+
+
+#### Emby:
+
+
+En ajustes vamos a transcodificación y habilitamos la aceleración de hardware (si está disponible): 
+En vanzado, cambiamos a NVDEC (recomendado) o CUVID según el decodificador de hardware preferido.
