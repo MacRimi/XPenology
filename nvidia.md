@@ -119,7 +119,7 @@ En vanzado, cambiamos a NVDEC (recomendado) o CUVID según el decodificador de h
 
 
 Puesto que el controlador de nvidia es el 440.44 solo podemos usar la versión 10.7.7 de Jellifyn. Las versiones superiores no son compatibles con este controlador y no podremos usar nuestra tarjeta nvidia.
-Aceleración de hardware seleccionamos: Nvidia NVENC
+En aceleración de hardware seleccionamos: Nvidia NVENC
 
 
 ### Banco de pruebas:
