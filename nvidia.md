@@ -1,8 +1,8 @@
 # Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...
 
-En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” con tarjeta nvidia de serie como los DVA 3221 y 3219.
+En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” con tarjeta nvidia de serie como los DVA 3221 y 3219. Las tarjetas compatibles son las mismas que podriamos usar en los DVA.
 
-Modelos confirmados:
+Modelos confirmados a los que podemos añdirle una grafica nvidia:
 -	DS918+
 -	DS920+
 -	DS923+
@@ -73,17 +73,17 @@ nvidia-smi
 ### Usar nuestro servidor multimedia con NVIDIA:
 
 Hay que tener en cuenta que Synology lleva su ritmo a la hora de las actualizaciones y como hemos podido observar el controlador que nos instala el paquete NVIDIA Rumtime Library es la versión: NVIDIA-SMI 440.44
-Eso puede generarnos un problema con nuestros servidores de medios que requieran versiones superiores, como caso de Plex, Jellyfin y posiblemete Emby.
+Eso puede generarnos algunos problema con nuestros servidores de medios que requieran versiones superiores, como es el caso de Plex, Jellyfin y posiblemete Emby.
 
 
 #### Plex:
 
-- Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada para no tener problemas con el controilador, de este repositorio de paquetes.
+- Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada para no tener problemas con el controlador, de este repositorio de paquetes.
 
 ![This is an image](imagenes/nvidia5.png)
 
 
-- También vamos a necesitar instalarnos este paquete de Synology puesto que lo necesitaremso para modificar el archivo Preferences.xml
+- También vamos a necesitar instalarnos este paquete de Synology puesto que lo necesitaremos para modificar el archivo Preferences.xml
 
 
 ![This is an image](imagenes/nvidia6.png)
