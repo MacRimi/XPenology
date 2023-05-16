@@ -59,6 +59,11 @@ Si todo esta correcto deberíamos ver algo así:
 
 Ahora comprobamos que este instalado el controlador y la tarjeta grafica este reconocida
 
+
+```
+nvidia-smi
+```
+
 ![This is an image](imagenes/nvidia4.png)
 
 
