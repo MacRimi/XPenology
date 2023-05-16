@@ -72,7 +72,7 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 
 #### Plex:
 
-- Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada de este repositorio de paquetes.
+- Puesto que la versión de Plex Media Server v1.20.2 requiere como mínimo el controlador de nvidia 450.66, tenemos que instalarnos la versión de Plex modificada para no tener problemas con el controilador, de este repositorio de paquetes.
 
 ![This is an image](imagenes/nvidia5.png)
 
@@ -81,3 +81,8 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 
 
 ![This is an image](imagenes/nvidia6.png)
+
+
+![This is an image](imagenes/nvidia7.png)
+
+![This is an image](imagenes/nvidia8.png)
