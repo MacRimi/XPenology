@@ -14,7 +14,7 @@ Los modelos XS no son compatibles.
 ##
 ### Preparación:
 
-Añadimos este repositorio de origen de paquetes:
+Añadimos este repositorio de origenes de paquetes:
 
 https://spk7.imnks.com/
 
