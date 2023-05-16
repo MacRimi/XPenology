@@ -60,8 +60,9 @@ Ahora comprobamos que este instalado el controlador y la tarjeta grafica este re
 
 ![This is an image](imagenes/nvidia4.png)
 
+
 ##
-##
+
 ###  Usar nuestro servidor multimedia con NVIDIA:
 
 Hay que tener en cuenta que Synology lleva su ritmo a la hora de las actualizaciones y como hemos podido observar el controlador que nos instala el paquete NVIDIA Rumtime Library es la versión: NVIDIA-SMI 440.44
