@@ -123,6 +123,7 @@ Os paso unas capturas para que veáis las pruebas:
 
 - Placa base: Asrock J4205  PCIe 2.0 1x
 [modificada bios para arranque rápido]( https://xpenology.com/forum/topic/63876-j3455-xpenology-slow-boot-solution/page/2/)
+- Adptador PCIe 1x a 16X
 - Trajeta grafica: nvidia P620
 - Modelo DSM: DS918+
 - Boot: tinycore-redpill M-shell 
