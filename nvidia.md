@@ -63,4 +63,4 @@ Ahora comprobamos que este instalado el controlador y la tarjeta grafica este re
 ##
 ###  Usar nuestro servidor multimedia con NVIDIA:
 
-### Jellifin:
+- Jellifin:
