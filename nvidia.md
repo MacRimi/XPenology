@@ -2,12 +2,12 @@
 
 En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” de serie como los DVA 3221 y 3219.
 Modelos confirmados:
- -	DS918+
- -	DS920+
- -	DS923+
- -	DS1520+
- -	DS1621+
- -	DS2422+
+-	DS918+
+-	DS920+
+-	DS923+
+-	DS1520+
+-	DS1621+
+-	DS2422+
 
 * Los modelos XS no son compatibles.
 
