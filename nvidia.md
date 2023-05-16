@@ -89,7 +89,7 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 ![This is an image](imagenes/nvidia7.png)
 
 
-Una vez abierto el archivo Preferences.xml nos dirigimos al final de la línea y añadimos los siguiente:
+- Una vez abierto el archivo Preferences.xml nos dirigimos al final de la línea y añadimos los siguiente:
 
 ```
 HardwareDevicePath="/dev/nvidia0"
@@ -97,3 +97,6 @@ HardwareDevicePath="/dev/nvidia0"
 
 
 ![This is an image](imagenes/nvidia8.png)
+
+
+- Guardamos los cambios y cerramos el archivo. También deteneos Plex y lo volvemos a arrancar. Esto es importante para que aplique el cambio que hemos modificado y utilice nuestra tarjeta nvidia.
