@@ -34,6 +34,7 @@ Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SS
 ```
 sudo -i
 ```
+Una vez como root copiamos y pegamos esto:
 ```
 cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 ```
