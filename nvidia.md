@@ -85,4 +85,11 @@ Eso puede generarnos un problema con nuestros servidores de medios que requieran
 
 ![This is an image](imagenes/nvidia7.png)
 
+
+
+```
+HardwareDevicePath="/dev/nvidia0"
+```
+
+
 ![This is an image](imagenes/nvidia8.png)
