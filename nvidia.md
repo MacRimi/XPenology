@@ -28,7 +28,7 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 ![This is an image](imagenes/nvidia2.png)
 
 ##
-### Parchamos el controlador version 7.1:
+### Parcheamos el controlador version 7.1:
 
 Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SSH y no logueamos como root
 
@@ -44,7 +44,7 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
-### Parchamos el controlador version 7.2 (actualización):
+### Parcheamos el controlador version 7.2 (actualización):
 
 Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 4.4.302, porque de lo contrario nos dará un error al arrancar el servicio y cargar los módulos.
 
