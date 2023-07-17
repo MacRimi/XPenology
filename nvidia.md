@@ -28,7 +28,7 @@ Y nos instalamos el paquete NVIDIA Runtime Library
 ![This is an image](imagenes/nvidia2.png)
 
 ##
-### Parchamos el controlador:
+### Parchamos el controlador version 7.1:
 
 Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SSH y no logueamos como root
 
