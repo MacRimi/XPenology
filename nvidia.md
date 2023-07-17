@@ -50,8 +50,6 @@ Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 
 
 Para ellos primero nos descargamos los módulos correctos y los subimos a nuestro equipo por ejemplo a la carpeta “Archivos” (podemos usar la que queramos).
 
-Archivos:
-
 - [nvidia.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia.ko) 
 - [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia-uvm.ko)
 
