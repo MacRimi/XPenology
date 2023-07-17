@@ -69,7 +69,15 @@ cp nvidia.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 ```
 cp nvidia-uvm.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 ```
-
+```
+cd /var/packages/NVIDIARuntimeLibrary/target/modules
+```
+```
+chmod +x nvidia.ko
+```
+```
+chmod +x nvidia-uvm.ko
+```
 
 Comprobamos que todo esta correcto con estos comandos:
 
