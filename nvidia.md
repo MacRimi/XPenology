@@ -70,15 +70,6 @@ cp nvidia.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 cp nvidia-uvm.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 ```
 ```
-cd /var/packages/NVIDIARuntimeLibrary/target/modules
-```
-```
-chmod +x nvidia.ko
-```
-```
-chmod +x nvidia-uvm.ko
-```
-```
 cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 ```
 ```
