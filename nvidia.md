@@ -78,6 +78,13 @@ chmod +x nvidia.ko
 ```
 chmod +x nvidia-uvm.ko
 ```
+cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
+```
+
+```
+cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
+```
+
 
 Comprobamos que todo esta correcto con estos comandos:
 
