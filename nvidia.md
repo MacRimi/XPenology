@@ -52,7 +52,8 @@ Para ellos primero nos descargamos los módulos correctos y los subimos a nuestr
 
 Archivos:
 
-[nvidia.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia.ko) y [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia-uvm.ko)
+- [nvidia.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia.ko) 
+- [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/denverton-4.4.302/nvidia-uvm.ko)
 
 Sustituimos los módulos obsoletos en 7.2
 
