@@ -60,6 +60,8 @@ Nos conetamos por ssh
 ```
 sudo -i
 ```
+Nos dirigimos a la carpeta donde nos descargamos los módulos por ejemplo la carpeta Archivos y los copiamos en su ubicación.
+
 ```
 cd /volume1/Archivos
 ```
