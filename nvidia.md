@@ -1,4 +1,4 @@
-# Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...
+# Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+... (actualizado 7.2)
 
 En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” con tarjeta nvidia de serie como los DVA 3221 y 3219. Las tarjetas compatibles son las mismas que podriamos usar en los DVA.
 
@@ -44,7 +44,33 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
+### Parchamos el controlador version 7.2 (actualización):
+
+Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 4.4.302, porque de lo contrario nos dará un error al arrancar el servicio y cargar los módulos.
+
+Para ellos primero nos descargamos los módulos correctos y los subimos a nuestro equipo por ejemplo a la carpeta “Archivos” (podemos usar la que queramos).
+
+Luego sustituimos los módulos obsoletos en 7.2
+
+Nos conetamos por ssh 
+
+```
+sudo -i
+```
+```
+cd /volume1/Archivos
+```
+```
+cp nvidia.ko /var/packages/NVIDIARuntimeLibrary/target/modules
+```
+```
+cp nvidia-uvm.ko /var/packages/NVIDIARuntimeLibrary/target/modules
+```
+
+
 Comprobamos que todo esta correcto con estos comandos:
+
+
 
 ```
 nvidia-smi -pm 1
