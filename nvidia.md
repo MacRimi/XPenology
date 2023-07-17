@@ -71,7 +71,7 @@ cp nvidia.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 ```
 cp nvidia-uvm.ko /var/packages/NVIDIARuntimeLibrary/target/modules
 ```
-Ahora ya podemos parchar el controlador.
+Ahora ya podemos parchear el controlador.
 
 ```
 cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
