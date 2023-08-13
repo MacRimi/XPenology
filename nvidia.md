@@ -48,7 +48,7 @@ cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 
 #### Hay una actualización del controlador que ya están parcheados los módulos para la versión 7.2.
 
-#### Solo son necesarios los pasos anteriores.
+#### Solo son necesarios los pasos anteriores, podemos omitir lo que hay a continuación.
 ------------------
 
 
