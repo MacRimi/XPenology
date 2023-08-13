@@ -44,7 +44,12 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
-### Parcheamos el controlador version 7.2 (actualización):
+### Parcheamos el controlador version 7.2 (actualización 2):
+
+##Hay una actualización del controlador que ya están parcheados los módulos para la versión 7.2.
+
+##Solo son necesarios los pasos anteriores.
+
 
 Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 4.4.302, porque de lo contrario nos dará un error al arrancar el servicio y cargar los módulos.
 
