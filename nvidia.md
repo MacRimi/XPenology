@@ -46,17 +46,17 @@ cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 
 ### Parcheamos el controlador version 7.2 (actualización 2):
 
-##Hay una actualización del controlador que ya están parcheados los módulos para la versión 7.2.
+## Hay una actualización del controlador que ya están parcheados los módulos para la versión 7.2.
 
-##Solo son necesarios los pasos anteriores.
+## Solo son necesarios los pasos anteriores.
 
 
 Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 4.4.302, porque de lo contrario nos dará un error al arrancar el servicio y cargar los módulos.
 
 Para ellos primero nos descargamos los módulos correctos y los subimos a nuestro equipo por ejemplo a la carpeta “Archivos” (podemos usar la que queramos).
 
-- [nvidia.ko](https://github.com/AuxXxilium/arc-modules/raw/main/official/denverton-4.4.302/nvidia.ko) 
-- [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/raw/main/official/denverton-4.4.302/nvidia-uvm.ko)
+- [nvidia.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/hda1/denverton-4.4.302/nvidia.ko) 
+- [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/hda1/denverton-4.4.302/nvidia-uvm.ko)
 
 Sustituimos los módulos obsoletos en 7.2
 
