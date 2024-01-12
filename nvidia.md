@@ -45,39 +45,16 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
-### Parcheamos el controlador version 7.2 (actualización 2):
+### Instalamos el controlador version 7.2 (actualización 2):
 
-#### Hay una actualización del controlador que ya están parcheados los módulos para la versión 7.2.
+nos instalamos el paquete NVIDIA Runtime Library si usamos la version 7.2
 
-#### Solo son necesarios los pasos anteriores, podemos omitir lo que hay a continuación.
-------------------
+![This is an image](imagenes/nvidia10.png)
 
-
-Con la versión 7.2 tenemos que actualizar los módulos de Nvidia a la versión 4.4.302, porque de lo contrario nos dará un error al arrancar el servicio y cargar los módulos.
-
-Para ellos primero nos descargamos los módulos correctos y los subimos a nuestro equipo por ejemplo a la carpeta “Archivos” (podemos usar la que queramos).
-
-- [nvidia.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/hda1/denverton-4.4.302/nvidia.ko) 
+#
 - [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/hda1/denverton-4.4.302/nvidia-uvm.ko)
 
-Sustituimos los módulos obsoletos en 7.2
 
-Nos conetamos por ssh 
-
-```
-sudo -i
-```
-Nos dirigimos a la carpeta donde nos descargamos los módulos por ejemplo la carpeta Archivos y los copiamos en su ubicación.
-
-```
-cd /volume1/Archivos
-```
-```
-cp nvidia.ko /var/packages/NVIDIARuntimeLibrary/target/modules
-```
-```
-cp nvidia-uvm.ko /var/packages/NVIDIARuntimeLibrary/target/modules
-```
 Ahora ya podemos parchear el controlador.
 
 ```
