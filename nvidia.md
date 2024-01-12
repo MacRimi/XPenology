@@ -12,6 +12,7 @@ Modelos confirmados a los que podemos añdirle una grafica nvidia:
 
 Los modelos XS no son compatibles.
 
+### hay Hay una actualización para la versión 7.2 aqui 
 ##
 ### Preparación:
 
