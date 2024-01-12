@@ -51,8 +51,15 @@ nos instalamos el paquete NVIDIA Runtime Library si usamos la version 7.2
 
 ![This is an image](imagenes/nvidia10.png)
 
-#
-- [nvidia-uvm.ko](https://github.com/AuxXxilium/arc-modules/blob/main/official/hda1/denverton-4.4.302/nvidia-uvm.ko)
+##
+### Parcheamos el controlador version 7.2:
+
+Una vez instalado reiniciamos nuestro Nas. Cuando reinicie nos conectamos por SSH y no logueamos como root
+
+```
+sudo -i
+```
+Una vez como root copiamos y pegamos esto:
 
 
 Ahora ya podemos parchear el controlador.
