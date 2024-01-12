@@ -45,6 +45,7 @@ cd /var/packages/NVIDIARuntimeLibrary/conf && mv -f privilege.bak privilege
 cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 ```
 
+#
 ### Instalamos el controlador version 7.2 (actualización 2):
 
 nos instalamos el paquete NVIDIA Runtime Library si usamos la version 7.2
