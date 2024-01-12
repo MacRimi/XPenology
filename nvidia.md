@@ -23,7 +23,7 @@ https://spk7.imnks.com/
 ![This is an image](imagenes/nvidia1.png)
 
 
-Y nos instalamos el paquete NVIDIA Runtime Library
+Y nos instalamos el paquete NVIDIA Runtime Library si usamos la version 7.1
 
 ![This is an image](imagenes/nvidia2.png)
 
