@@ -4,4 +4,4 @@ Indice de manuales:
 
 
 - [Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...(actualizado 7.2)](nvidia.md)
-- [Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...(actualizado 7.2)](nuevo controlador 510.md)
+- [Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+...(actualizado 7.2)](nuevocontrolador510.md)
