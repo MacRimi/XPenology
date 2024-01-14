@@ -11,5 +11,5 @@ Las tarjetas compatibles son las mismas que podriamos usar en los DVA.
 <br>
 Como característica especial:
 <br>
-- Versión del controlador se actualiza a la versión: 510.108.03
-- Funciona en la mayoia DSM plataformas x86_64 con la versión del núcleo 4.4.302+.
+- El controlador se actualiza a la versión: 510.108.03
+- Funciona en la mayoia de modelos DSM cuya plataformas sean x86_64 con la versión del núcleo 4.4.302+. (7.2)
