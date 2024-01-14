@@ -49,6 +49,7 @@ cd /var/packages/NVIDIARuntimeLibrary/scripts && ./start-stop-status start
 
 #
 #
+# 
 ### Instalamos el controlador version 7.2 (atualizado, no hace falta descargar nada):
 
 nos instalamos el paquete NVIDIA Runtime Library si usamos la version 7.2
