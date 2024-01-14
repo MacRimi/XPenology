@@ -74,3 +74,6 @@ Una vez como root copiamos y pegamos esto y ejecutamos:
 ```
 vgpuDaemon fix
 ```
+<br>
+
+![This is an image](imagenes/nvidia18.png)
