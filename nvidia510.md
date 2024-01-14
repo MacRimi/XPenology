@@ -13,3 +13,17 @@ Como característica especial:
 <br>
 - El controlador se actualiza a la versión: 510.108.03
 - Funciona en la mayoia de modelos DSM cuya plataformas sean x86_64 con la versión del núcleo 4.4.302+. (7.2)
+
+### Preparación:
+
+Añadimos este repositorio de origenes de paquetes:
+
+https://spk7.imnks.com/
+
+
+![This is an image](imagenes/nvidia1.png)
+
+
+Y nos instalamos el paquete NVIDIA GPU Driver 
+
+![This is an image](imagenes/nvidia13.png)
