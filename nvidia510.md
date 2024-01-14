@@ -57,7 +57,7 @@ En este paso importante elegir GPU.
 
 <br>
 
-Aquí lo dejamos en blanco como esta, ya que esta opción es para las VGPU que no es nuestro caso ahora y seleccionamos siguiente.
+Aquí lo dejamos como esta, ya que esta opción es para las VGPU que no es nuestro caso ahora y seleccionamos siguiente.
 
 <br>
 
