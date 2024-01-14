@@ -90,4 +90,18 @@ vgpuDaemon fix
 
 ![This is an image](imagenes/nvidia20.png)
 
+<br>
 
+Una vez este ejecutándose otra vez el controlador, reiniciamos nuestros DSM y si todo ha ido bien volvemos a loguearnos como root y comprobamos si es controlador esta ejecuentadose
+
+```
+sudo -i
+```
+```
+nvidia-smi
+```
+<br>
+
+![This is an image](imagenes/nvidia21.png)
+
+<br>
