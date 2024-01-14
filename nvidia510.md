@@ -100,7 +100,7 @@ vgpuDaemon fix
 
 <br>
 
-Una vez este ejecutándose otra vez el controlador, reiniciamos nuestros DSM y si todo ha ido bien volvemos a loguearnos como root y comprobamos si es controlador esta ejecuentadose
+Una vez este ejecutándose otra vez el controlador, reiniciamos y si todo ha ido bien volvemos a loguearnos como root y comprobamos si es controlador esta ejecuentadose
 
 ```
 sudo -i
