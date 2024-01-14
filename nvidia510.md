@@ -41,6 +41,16 @@ Cuando nos lo pida, aceptamos los términos y empezamos la instalación.
 
 <br>
 
+En este paso importante elegir GPU.
+
+<br>
+
 ![This is an image](imagenes/nvidia15.png)
 
-En este paso importante elegir GPU. 
+Aquí lo dejamos en blanco como esta, ya que esta opción es para las VGPU que no es nuestro caso ahora y seleccionamos siguiente
+
+<br>
+
+![This is an image](imagenes/nvidia16.png)
+
+
