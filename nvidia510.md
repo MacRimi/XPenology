@@ -105,3 +105,6 @@ nvidia-smi
 ![This is an image](imagenes/nvidia21.png)
 
 <br>
+
+Con esta versión del controlador podemos instalarnos ya la última versión de nuestro servidor de medios por ejemplo estamos usando la última de plex, descargada directamentente de la página oficial.
+
