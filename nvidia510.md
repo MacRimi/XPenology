@@ -28,7 +28,7 @@ https://spk7.imnks.com/
 
 <br>
 
-## Si teníamos una versión anterior o diferente, debemos desinstalarla antes y reiniciar nuestro equipo. 
+### Si teníamos una versión anterior o diferente, debemos desinstalarla antes y reiniciar nuestro equipo. 
 
 <br> 
 <br>
