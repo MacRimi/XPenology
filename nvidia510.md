@@ -25,7 +25,7 @@ https://spk7.imnks.com/
 
 <br>
 
- ## Y nos instalamos el paquete NVIDIA GPU Driver 
+ ### Y nos instalamos el paquete NVIDIA GPU Driver 
 
 <br>
 
