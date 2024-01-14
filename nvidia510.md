@@ -63,3 +63,14 @@ Y finalizamos la instalación.
 
 ![This is an image](imagenes/nvidia17.png)
 
+#
+
+Una vez instalado nos conectamos por SSH y no logueamos como root
+
+```
+sudo -i
+```
+Una vez como root copiamos y pegamos esto y ejecutamos:
+```
+vgpuDaemon fix
+```
