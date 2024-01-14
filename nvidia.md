@@ -14,7 +14,7 @@ Modelos confirmados a los que podemos añdirle una grafica nvidia:
 
 Los modelos XS no son compatibles.
 
-### hay Hay una actualización para la versión 7.2 [aqui](https://github.com/MacRimi/XPenology/blob/main/nvidia.md#instalamos-el-controlador-version-72-atualizado-no-hace-falta-descargar-nada)
+### Version 7.1
 ##
 ### Preparación:
 
