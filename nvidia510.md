@@ -78,7 +78,7 @@ Una vez instalado nos conectamos por SSH y no logueamos como root
 ```
 sudo -i
 ```
-Una vez como root copiamos y pegamos esto y ejecutamos:
+Una vez como root copiamos, pegamos esto y ejecutamos:
 ```
 vgpuDaemon fix
 ```
