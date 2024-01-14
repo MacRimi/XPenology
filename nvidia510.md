@@ -13,6 +13,7 @@ Como característica especial:
 <br>
 - El controlador se actualiza a la versión: 510.108.03
 - Funciona en la mayoia de modelos DSM cuya plataformas sean x86_64 con la versión del núcleo 4.4.302+. (7.2)
+- Aun no sirve para aprovechar los recursos de IA de surveillance station
 
 ### Preparación:
 
