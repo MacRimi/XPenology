@@ -108,3 +108,22 @@ nvidia-smi
 
 Con esta versión del controlador podemos instalarnos ya la última versión de nuestro servidor de medios por ejemplo estamos usando la última de plex, descargada directamentente de la página oficial.
 
+<br>
+
+![This is an image](imagenes/nvidia24.png)
+
+<br>
+
+Podemos comprobar cómo está usando la gráfica correctamente.
+
+<br>
+
+![This is an image](imagenes/nvidia23.png)
+
+<br>
+
+<br>
+
+![This is an image](imagenes/nvidia22.png)
+
+<br>
