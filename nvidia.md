@@ -1,3 +1,5 @@
+# Este manual está obsoleto por que ha sido actualizado por el nuevo contraldor para nvidia. Si aun estas usando la versión 7.1 puedes seguir. Si estas usando la versión 7.2 ves al nuevo manual [aqui](https://github.com/MacRimi/XPenology/blob/main/nvidia.md#instalamos-el-controlador-version-72-atualizado-no-hace-falta-descargar-nada)
+#
 # Utilizar tarjeta nvidia en DS918+,DS920+. DDS923+... (actualizado 7.2 12/01/24)
 
 En este tutorial vamos a ver de que manera podemos usar una tarjeta grafica nvidia en un modelo no “compatible” con tarjeta nvidia de serie como los DVA 3221 y 3219. Las tarjetas compatibles son las mismas que podriamos usar en los DVA.
