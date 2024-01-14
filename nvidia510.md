@@ -23,7 +23,10 @@ https://spk7.imnks.com/
 
 ![This is an image](imagenes/nvidia1.png)
 
+<br>
 
-Y nos instalamos el paquete NVIDIA GPU Driver 
+ ## Y nos instalamos el paquete NVIDIA GPU Driver 
+
+<br>
 
 ![This is an image](imagenes/nvidia13.png)
