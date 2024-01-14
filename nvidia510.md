@@ -132,6 +132,7 @@ Podemos comprobar cómo está usando la gráfica correctamente.
 #
 
 Otra ventaja muy interesante de este nuevo controlador, es que podemos usar Docker que usen los recursos de la grafica nvida, cosa que con la versión anterior no se podía. 
+<br>
 Por ejemplo podríamos usar programas como Stable Diffusion.
 
 ```
