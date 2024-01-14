@@ -23,6 +23,11 @@ Añadimos este repositorio de origenes de paquetes:
 
 https://spk7.imnks.com/
 
+<br>
+
+Si teníamos una versión anterior o diferente, debemos desinstalarla antes y reiniciar nuestro equipo. 
+
+<br> 
 
 ![This is an image](imagenes/nvidia1.png)
 
