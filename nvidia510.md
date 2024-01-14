@@ -114,7 +114,7 @@ nvidia-smi
 
 <br>
 
-Con esta versión del controlador podemos instalarnos ya la última versión de nuestro servidor de medios por ejemplo estamos usando la última de plex, descargada directamentente de la página oficial.
+Con esta versión del controlador podemos instalarnos la última versión de nuestro servidor de medios, por ejemplo estamos usando la última de plex descargada directamentente de la página oficial.
 
 <br>
 
