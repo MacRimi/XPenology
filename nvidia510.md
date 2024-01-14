@@ -80,7 +80,7 @@ vgpuDaemon fix
 
 #
 
-¡Ahora importante!! vamos al centro de paquetes y nos dirigimos a los que tenemos instalados y detenemos el controlador de nvidia una vez detenido lo volvemos a ejecutar.
+¡Ahora importante!! vamos al centro de paquetes y nos dirigimos a los que tenemos instalados y detenemos el controlador de nvidia, una vez detenido lo volvemos a ejecutar.
 
 <br>
 
