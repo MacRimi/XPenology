@@ -30,3 +30,11 @@ https://spk7.imnks.com/
 <br>
 
 ![This is an image](imagenes/nvidia13.png)
+
+<br>
+
+Cuando nos lo pida, aceptamos los términos y empezamos la instalación.
+
+<br>
+
+![This is an image](imagenes/nvidia14.png)
