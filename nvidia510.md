@@ -1,4 +1,4 @@
-# Instalar  GPU nvidia y actualizar el controlador a la versión 510
+# Instalar  GPU nvidia y actualizar el controlador a la versión 5xx
 #
 
 En este tutorial vamos usar una tarjeta grafica nvidia e instalar el controlador 510.108.
