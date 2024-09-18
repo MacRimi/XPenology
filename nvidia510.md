@@ -142,7 +142,7 @@ Otra ventaja muy interesante de este nuevo controlador es que ahora podemos usar
 <br>
 Por ejemplo, podríamos usar Dockers como [HWEncoderX](https://github.com/MacRimi/HWEncoderX/tree/main). 
 
-![This is an image](https://raw.githubusercontent.com/MacRimi/HWEncoderX/main/images/logo2.png)
+![(https://raw.githubusercontent.com/MacRimi/HWEncoderX/main/images/logo2.png)](https://github.com/MacRimi/HWEncoderX/tree/main)
 
 
 ```
