@@ -1,7 +1,7 @@
 # Instalar  GPU nvidia y actualizar el controlador a la versión 5xx
 #
 
-En este tutorial vamos usar una tarjeta grafica nvidia e instalar el controlador 510.108.
+En este tutorial vamos usar una tarjeta grafica nvidia e instalar el controlador 5xx.
 <br>
 <br>
 Esta versión del controlador nos permitirá actualizar nuestros servidores de contenido como Plex, emby etc… y no tener la limitación que teníamos antes ya que estábamos usando el controlador 440. La ventaja de este nuevo controlador es que puede usarse para GPU como para VGPU (Virtual GPU). de momento vamos a ver como se instala en una grafica física.
@@ -13,7 +13,7 @@ Las tarjetas compatibles son las mismas que podriamos usar en los DVA.
 <br>
 Como característica especial:
 <br>
-- El controlador se actualiza a la versión: 510.108.03
+- El controlador se actualiza a la versión: 5xx
 - Funciona en la mayoia de modelos DSM cuya plataformas sean x86_64 con la versión del núcleo 4.4.302+. (7.2)
 - Aun no sirve para aprovechar los recursos de IA de surveillance station DVA
 
