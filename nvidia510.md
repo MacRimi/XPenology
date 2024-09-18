@@ -140,7 +140,7 @@ Podemos comprobar cómo está usando la gráfica correctamente.
 
 Otra ventaja muy interesante de este nuevo controlador, es que podemos usar Docker que usen los recursos de la grafica nvida, cosa que con la versión anterior no se podía. 
 <br>
-Por ejemplo, podríamos usar Dockers como [HWEncoderX](https://github.com/MacRimi/HWEncoderX/tree/main).
+Por ejemplo, podríamos usar Dockers como [HWEncoderX](https://github.com/MacRimi/HWEncoderX/tree/main). ![This is an image](https://raw.githubusercontent.com/MacRimi/HWEncoderX/main/images/logo2.png)
 
 
 ```
