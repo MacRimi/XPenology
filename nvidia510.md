@@ -140,17 +140,14 @@ Podemos comprobar cómo está usando la gráfica correctamente.
 
 Otra ventaja muy interesante de este nuevo controlador, es que podemos usar Docker que usen los recursos de la grafica nvida, cosa que con la versión anterior no se podía. 
 <br>
-Por ejemplo podríamos usar programas como Stable Diffusion.
+Por ejemplo, podríamos usar Dockers como [HWEncoderX](https://github.com/MacRimi/HWEncoderX/tree/main).
+
 
 ```
-docker run --gpus all --restart always --name diffusion_webui -d \
-    -v /volume1/docker/stablediffusion/models:/app/models \
-    -v /volume1/docker/stablediffusion/outputs:/app/outputs \
-    -v /volume1/docker/stablediffusion/extensions:/app/extensions \
-    -v /volume1/docker/stablediffusion/configs:/app/configs \
-    -v /volume1/docker/stablediffusion/others:/temp/others \
-    -p 7860:7860 \
-   bobzhao1210/diffusion-webui
+docker run -d --name hwencoderx --gpus all \
+  -v /path/to/input:/input \
+  -v /path/to/output:/output \
+  macrimi/hwencoderx:latest
 ```
 
 #
