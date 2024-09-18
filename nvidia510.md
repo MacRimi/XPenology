@@ -138,7 +138,7 @@ Podemos comprobar cómo está usando la gráfica correctamente.
 
 #
 
-Otra ventaja muy interesante de este nuevo controlador, es que podemos usar Docker que usen los recursos de la grafica nvida, cosa que con la versión anterior no se podía. 
+Otra ventaja muy interesante de este nuevo controlador es que ahora podemos usar Docker para aprovechar los recursos de la tarjeta gráfica NVIDIA, algo que no era posible con la versión anterior.
 <br>
 Por ejemplo, podríamos usar Dockers como [HWEncoderX](https://github.com/MacRimi/HWEncoderX/tree/main). 
 
